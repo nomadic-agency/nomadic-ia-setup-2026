@@ -49,7 +49,7 @@ El setup funciona con cualquier herramienta del stack. No estás atado a una sol
 | **Claude Cowork** | Agente de escritorio con acceso a archivos y conectores | 10 minutos |
 | **Claude Code** | Agente de terminal para automatizaciones y procesamiento de datos | 20 minutos |
 
-→ Requiere cuenta Claude Pro ($20/mes). Consultá con Wilson antes de suscribirte.
+→ Requiere cuenta Claude Pro ($20/mes). 
 
 ---
 
