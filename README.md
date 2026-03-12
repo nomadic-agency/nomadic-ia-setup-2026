@@ -1,0 +1,1 @@
+# nomadic-ia-setup-2026
